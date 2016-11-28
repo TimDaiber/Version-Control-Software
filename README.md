@@ -1,1 +1,4 @@
 # Version-Control-Software
+
+##Introduction
+In the industrial environment of software development, a project is seldom developed by one or two developers.  The size of the team can vary based on the size of the project.  There are many problems that can arise when working in teams. But to talk about the problems that can arise we have to first dissect the makeup of a software project and in thus the organisation of the team. A software project can have different parts to it. For example, a website that stores data has at least 3 parts: Front end middle ware and backend and event theses sections can be divided into smaller sub groups. The front end could be made up of designer and developer. All these different slices of a software project will have different members of the team working on it.  This is where we have to ask ourselves how a team can collaborate efficiently due to many circumstances  
